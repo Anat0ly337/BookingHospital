@@ -17,3 +17,4 @@
 - 1.login-user password-user role-USER
 - 2.login-admin password-admin role-ADMIN
 админ может вносить изменения пользователей, обычный юзер нет
+- при запуске через раз выкидывает Vaadin StackTrace, оно не мешает запуску и работе приложения. Не было времени пока разобраться.
