@@ -11,6 +11,7 @@
 - Текущий Юзер не может бронировать два помещения, комната не содержит 2 манипуляции
 - в случае ошибки выскакивает alert notification
 - CommandRunner загружает 2х пользователей
+- Полной валидации на поля нету, есть только частичная
 Пользователи
 1.login-user password-user role-USER
 2.login-admin password-admin role-ADMIN
