@@ -12,7 +12,7 @@
 - в случае ошибки выскакивает alert notification
 - CommandRunner загружает 2х пользователей
 - Полной валидации на поля нету, есть только частичная
-Пользователи
+-Пользователи
 1.login-user password-user role-USER
 2.login-admin password-admin role-ADMIN
 админ может вносить изменения пользователей, обычный юзер нет
